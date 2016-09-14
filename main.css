@@ -1,0 +1,58 @@
+body{
+	background-color: lightgrey;
+}
+
+table{
+	height: 100%;
+}
+
+th{
+	border: dotted 1px blue;
+	background-color: white;
+	font-size: 14px;
+	font-weight: normal;
+	text-align: left;
+	vertical-align: top;
+}
+
+footer{
+	padding-top: 15px;
+	text-align: center;
+}
+
+.title{
+	color: blue;
+}
+
+.left-pannel{
+	width: 25%;
+	padding-top: 10px;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+.left-pannel > p{ 
+	padding: 10px;
+}
+
+.middle-pannel{
+	width: 59%;
+	padding-top: 35px;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+.right-pannel{
+	width: 16%;
+	padding-top: 25px;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+
+.middle-pannel > p{
+	padding-bottom: 20px;
+}
+
+.title{
+	padding-left: 10px;
+}
